@@ -2,10 +2,6 @@
 
 This implements cubes and covers and their associated logic operations.
 
-## Dependencies
-
-* [common](https://github.com/nbingham1/common.git)
-
 ## License
 
 This project is part of the Haystack synthesis engine.
